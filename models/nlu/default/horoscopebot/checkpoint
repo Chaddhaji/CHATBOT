@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/yuvi/Documents/Chatbot/horoscope_bot/chatbot/./models/nlu/default/horoscopebot/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/yuvi/Documents/Chatbot/horoscope_bot/chatbot/./models/nlu/default/horoscopebot/intent_classifier_tensorflow_embedding.ckpt"
